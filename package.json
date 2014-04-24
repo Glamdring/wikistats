@@ -1,0 +1,11 @@
+{
+  "name": "wikistats",
+  "fullName": "WikiStats",
+  "author": "Bozho (http://techblog.bozho.net/)",
+  "id": "wikistats@bozho.net",
+  "description": "Get statistics for your Wikipedia usage",
+  "icon": "icon.png",
+  "icon64": "icon.png",
+  "license": "MPL 2.0",
+  "version": "0.0.1"
+}
