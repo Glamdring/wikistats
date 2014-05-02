@@ -6,7 +6,9 @@ Add-on that calculates statistics for wikipedia usage
 Building
 -----
 
-	cd addon-sdk/bin
+Get the latest addon-sdk from https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation
+
+	cd {addon-sdk}/bin
 	activate
-	cd ../../ 
+	cd {wikistats-dir}
 	cfx xpi
